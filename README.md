@@ -20,3 +20,6 @@ This code was modified from Eric Matthes' Python Crash Course book by Ronald Kip
 Matthes, E. (2022). Python crash course: A hands-on, project-based introduction to programming (3rd ed.). No Starch Press.
 
 For Dice roller
+
+
+Random_verse.ipynb Made by myself Tyler Martinez
