@@ -11,3 +11,12 @@ Kaggle runs a machine learning competition on the Titanic data: https://www.kagg
 This notebook is from Alexis Cook's Titanic Tutorial page: https://www.kaggle.com/alexisbcook/titanic-tutorial
 
 For titantic code
+
+
+
+
+This code was modified from Eric Matthes' Python Crash Course book by Ronald Kiprono:
+
+Matthes, E. (2022). Python crash course: A hands-on, project-based introduction to programming (3rd ed.). No Starch Press.
+
+For Dice roller
